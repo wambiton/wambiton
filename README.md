@@ -89,10 +89,6 @@ An ongoing personal project that aims to make expense tracking easier through au
 - 💻 Windows companion for data backup
 - 📊 Expense tracking, budgets and spending comparisons
 
-### 🔧 Technologies
-
-`Kotlin` `Jetpack Compose` `Room` `Python` `Django`
-
 <div align="center">
 
 <a href="https://github.com/wambiton/daily-ledger">

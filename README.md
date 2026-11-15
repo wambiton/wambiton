@@ -17,8 +17,6 @@
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## 👨‍💻 About Me
 
 Hi! I'm **wambiton**.
@@ -36,8 +34,6 @@ I'm a Computer Science student interested in backend development and artificial 
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -45,7 +41,6 @@ I'm a Computer Science student interested in backend development and artificial 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ### Backend & Database
@@ -54,7 +49,6 @@ I'm a Computer Science student interested in backend development and artificial 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ### Tools
@@ -68,73 +62,42 @@ I'm a Computer Science student interested in backend development and artificial 
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-
 ## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/wambiton/daily-ledger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wambiton&repo=daily-ledger&theme=tokyonight&hide_border=true"/>
+
+<img src="https://img.shields.io/badge/📒_Daily_Ledger-Personal_Finance_App-2563EB?style=for-the-badge"/>
+
 </a>
 
-</div>
-
-### 📒 Daily Ledger
+### Daily Ledger
 
 **A personal finance application designed to bring scattered spending records into one ledger.**
 
 An ongoing personal project that aims to make expense tracking easier through automated transaction recognition and local data management.
 
-**Highlights**
+</div>
+
+### ✨ Highlights
 
 - 📱 Android personal finance application
-- 🔔 Payment notification and bank SMS recognition
+- 🔔 Payment notification and supported bank SMS recognition
 - ⚡ Automatic transaction recording with user-defined rules
 - 🔍 Manual confirmation for uncertain transactions
 - 💻 Windows companion for data backup
+- 📊 Expense tracking, budgets and spending comparisons
 
-**Technologies**
+### 🔧 Technologies
 
 `Kotlin` `Jetpack Compose` `Room` `Python` `Django`
 
-[View Repository →](https://github.com/wambiton/daily-ledger)
-
----
-
-<!-- ==================== GITHUB STATS ==================== -->
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wambiton&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wambiton&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- ==================== STREAK ==================== -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=wambiton&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wambiton&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/wambiton/daily-ledger">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
